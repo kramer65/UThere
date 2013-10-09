@@ -1,17 +1,17 @@
-Wazapp
+UThere
 ======
 
-Wazapp is an IM application for N9 that allows you to chat with your Whatsapp buddies
+UThere is a fork of [Wazapp](https://github.com/tgalal/wazapp). The aim of this project is to port OpenWhatsapp for the N9 to Ubuntu Touch so that also people on Ubuntu Touch are able to chat with their Whatsapp buddies.
 
-Wazapp consists of 2 parts, the IM application (wazapp), which is in Python, 
-and the accounts plugin (waxmppplugin) in C++. The accounts plugin
-should be rewritten in python soon.
+Wazapp (the current code) consists of 2 parts, the IM application (wazapp), which is in Python, 
+and the accounts plugin (waxmppplugin) in C++. The UI seems to be written in QML.
 
-**Wazapp is powered by [Yowsup](https://github.com/tgalal/yowsup), the python Whatsapp Library**
+Seeing that Python and C++ are supported languages on Ubuntu Touch, porting the UI to Ubuntu Touch is the first priority. 
 
-Homepage: http://www.wazapp.im
+If you want to help out, fork this repo, or open an issue to discuss some stuff. This is just a starting point, let's see what we can make happen.
 
-Contact: Tarek Galal <tarek@wazapp.im>
+**UThere is powered by [Yowsup](https://github.com/tgalal/yowsup), the python Whatsapp Library**
+
 
 License:
 
