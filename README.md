@@ -1,7 +1,9 @@
 UThere
 ======
 
-UThere is a fork of [Wazapp](https://github.com/tgalal/wazapp). The aim of this project is to port OpenWhatsapp for the N9 to Ubuntu Touch so that also people on Ubuntu Touch are able to chat with their Whatsapp buddies.
+UThere is a fork of [Wazapp](https://github.com/tgalal/wazapp) with the aim to be ported to Ubuntu Touch so that also people on Ubuntu Touch are able to chat with their Whatsapp buddies.
+
+Join us for discussion at [https://groups.google.com/forum/#!forum/uthere](https://groups.google.com/forum/#!forum/uthere). We are looking for people to help out, so if you're good at QML, Python and/or C++, join in!
 
 Wazapp (the current code) consists of 2 parts, the IM application (wazapp), which is in Python, 
 and the accounts plugin (waxmppplugin) in C++. The UI seems to be written in QML.
